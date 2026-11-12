@@ -1,0 +1,6 @@
+GitHub un outil de gestion de versions qui permet de suivre les modifications d'un projet.
+Il permet de conserver l'historique du travail et dr revenir aux versions precedentes.
+GitHub est une platforme en ligne qui permet de stocker et de partager les projets.
+Dans ce TP, j'ai appris a creer un depot GiHub et a le cloner dans Google Colab.
+J'ai appris a ajouter des fishiers, realiser des commits et envoyer les modifications.
+J'ai egalement decouvert l'utilisation des branches pour organiser le travail.
